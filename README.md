@@ -9,7 +9,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{www.devchallenge-error-404-31c56b.netlify.app/}">
+    <a href="https://devchallenge-error-404-31c56b.netlify.app/">
       Demo
     </a>
     <span> | </span>
